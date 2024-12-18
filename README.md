@@ -1,8 +1,8 @@
-# Hi 👋, I'm [Ditt Navn]
+# Hi 👋, I'm Yasmin Bulale
 
 ### A passionate IT Student from Norway
 
-- 🚀 I’m currently learning **Network security, Python, User experience fundamentals** and **Rapid web development** as exchange student at QUT in Australia, Brisbane.
+- 🚀 I’m currently learning .
   
 ### SCHOOL 📚:
 Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human-Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and Cloud Computing, Operating Systems, Software Testing.
@@ -21,10 +21,4 @@ Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design,
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 </p>
 
----
 
-### **Popular repositories**
-| Name | Description |
-|------|-------------|
-| Oblig1 | HTML |
-| Oblig2 | HTML |
