@@ -7,7 +7,7 @@
 ### SCHOOL 📚:
 Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human-Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and Cloud Computing, Operating Systems, Software Testing.
 
-- 📫 How to reach me: **[din e-postadresse her]**
+- 📫 How to reach me: **Yasminbulalle@gmail.com**
 
 ---
 
