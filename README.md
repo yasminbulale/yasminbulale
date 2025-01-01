@@ -2,7 +2,7 @@
 
 ### A passionate IT Student from Norway
 
-- 🚀 I’m currently learning .
+- 🚀 I’m currently learning Visualization and writing my bachelor thesis.
   
 ### SCHOOL 📚:
 Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human-Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and Cloud Computing, Operating Systems, Software Testing.
