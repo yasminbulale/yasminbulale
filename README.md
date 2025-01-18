@@ -47,8 +47,10 @@ When I’m not coding, I enjoy **working out**, **listen to podcasts**, **readin
 ---
 
 ## 📫 How to Reach Me
-📧 Email: [yasminbulale@gmail.com](mailto:yasminbulale@gmail.com)
- Linkeden:[linkedin.com/in/kadija-yasmin-bulale-742b90223)]
+## 📫 How to Reach Me
+📧 Email: [yasminbulale@gmail.com](mailto:yasminbulale@gmail.com)  
+🌐 LinkedIn: [Kadija Yasmin Bulale](https://www.linkedin.com/in/kadija-yasmin-bulale-742b90223/)
+
 ---
 
 ### Popular Repositories
