@@ -52,7 +52,3 @@ When I’m not coding, I enjoy **working out**, **listen to podcasts**, **readin
 🌐 LinkedIn: [Kadija Yasmin Bulale](https://www.linkedin.com/in/kadija-yasmin-bulale-742b90223/)
 
 ---
-
-### Popular Repositories
-- [oblig1-data1200](https://github.com/username/oblig1-data1200) - HTML
-- [OBLIG2](https://github.com/username/OBLIG2) - Java
